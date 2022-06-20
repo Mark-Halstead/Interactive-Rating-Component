@@ -1,0 +1,113 @@
+body {
+  background-color: #000000;
+}
+
+.card {
+  background-color: #1B2430;
+  color: white;
+  top: 150px;
+  border-radius: 3%;
+  height: 95%;
+  width: 35%;
+  padding-bottom: 60px;
+}
+
+.card-body {
+  position: relative;
+  bottom: 50px;
+}
+
+.fcontent {
+  position: relative;
+  top: 20px;
+}
+
+.btn6 {
+  background-color: #F77E21;
+  border-color: #F77E21;
+  border-radius: 20px;
+  font-family: Sans-serif;
+  padding: 10px 0;
+  position: relative;
+  top: 30px;
+  width: 100%;
+}
+
+.btn6:hover {
+  background-color: white;
+  color: #F77E21;
+}
+
+.btn-circle.btn-xl {
+  background-color: #1B2430;
+  border-color: #1B2430;
+  filter: brightness(1.4);
+	width: 60px;
+	height: 60px;
+	padding: 13px 18px;
+  margin: 10px 11px;
+	border-radius: 60px;
+	font-size: 15px;
+	text-align: center;
+}
+
+.btn-circle.btn-xl:hover {
+  background-color: #F77E21;
+  filter: brightness(1);
+}
+
+.fa-solid {
+  color: #F77E21;
+  float: left;
+  margin-left: 3px;
+  margin-top: 8px;
+}
+
+.circle {
+  background-color: #1B2430;
+  filter: brightness(1.2);
+  width: 60px;
+	height: 60px;
+	padding: 13px 18px;
+	border-radius: 60px;
+	font-size: 15px;
+	text-align: center;
+  position: relative;
+  left: 40px;
+  top: 20px;
+}
+
+.card-title {
+  text-align: left;
+}
+
+.card-submit-title {
+  text-align: center;
+}
+
+.card-text {
+  color: darkgrey;
+  text-align: left;
+  float: left;
+  margin-left: 18px;
+}
+
+.rating {
+  background-color: #1B2430;
+  border-color: #1B2430;
+  color: #F77E21;
+  border-radius: 20px;
+  filter: brightness(1.4);
+  font-family: Sans-serif;
+  width: 60%;
+}
+
+.card-submit-title {
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
+
+.img2 {
+  display: block;
+  margin: 50px auto 0 auto;
+}
